@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: resources
+
+server:
+  port : 7001
